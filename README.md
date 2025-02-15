@@ -14,10 +14,12 @@ A loja é organizada em uma tabela, onde cada mobília possui um identificador �
 - Linha 1, Coluna A → Mobília 1A
 - Linha 3, Coluna B → Mobília 3B
 
-Escolha a mobília desejada e anote o identificador da linha e da coluna (exemplo: 1A, 3B).
+Escolha a mobília desejada e clique sobre ela para realizar a compra.
 
-### Passo 3: Realize a Compra
-Após escolher a mobília e pegar o identificador (exemplo: 1A ou 3B), siga as instruções da loja para concluir a compra do item.
+### Passo 3: Anote o Identificador
+**IMPORTANTE**: Após realizar a compra, anote o identificador da mobília (exemplo: 1A, 3B). O identificador é necessário caso haja qualquer problema, como a perda do item.
+
+**Lembre-se**: Caso você perca o identificador e não o tenha anotado, a administração **não poderá** recuperar ou ajudar na reposição do item. Portanto, é essencial que você faça essa anotação!
 
 ## 🏆 Mobílias VIP vs Mobílias para Membros Regulares
 
@@ -37,7 +39,7 @@ Qualquer tentativa de manipular ou burlar o sistema (como exploits ou trapaças)
 
 ## 💡 Dicas e Orientações
 
-- **Verifique o identificador**: Antes de realizar a compra, certifique-se de ter anotado corretamente o identificador da mobília (linha e coluna).
+- **Verifique o identificador**: Antes de concluir a compra, certifique-se de ter anotado corretamente o identificador da mobília (linha e coluna). Isso ajudará em qualquer possível problema com o item.
 - **Não confunda os itens**: A tabela de mobílias pode ser extensa, então tenha cuidado ao escolher e não confunda o identificador da mobília.
 - **Esteja atento às atualizações**: A tabela de mobílias pode ser atualizada com novos itens, então fique de olho em novidades!
 
@@ -45,7 +47,3 @@ Qualquer tentativa de manipular ou burlar o sistema (como exploits ou trapaças)
 
 - **Burlar o sistema**: Qualquer manipulação indevida do sistema (como exploits, trapaças ou uso de métodos não autorizados para adquirir mobílias) resultará em **penalidades severas**.
 - **Multiplicação de Itens**: Duplicar itens, seja manualmente ou usando métodos externos, é **estritamente proibido**. Respeite as regras para garantir uma boa convivência.
-
----
-
-Aproveite sua experiência no **Recanto Secreto** e boa sorte na personalização do seu espaço! Se tiver dúvidas ou encontrar problemas, entre em contato com o suporte.
